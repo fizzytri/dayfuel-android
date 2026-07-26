@@ -1,6 +1,6 @@
 # DayFuel
 
-Diego, student number: `<add yours>`
+Diako Jalal, student number: 2524490
 Software Development Skills, mobile module
 
 DayFuel is a small Android app for tracking how many calories you eat and how many glasses of
